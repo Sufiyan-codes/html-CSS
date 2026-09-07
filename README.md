@@ -1,2 +1,2 @@
 # html-CSS
-My first repository. Learning and practicing html and CSS.
+My first repository. Learning and practicing html and CSS
